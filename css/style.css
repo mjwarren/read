@@ -63,17 +63,6 @@ input {margin: 12px 0px; border: none; border-bottom: 1px solid #333; background
 
 #info {padding: 30px 0px;}
 
-.wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
-
-
-a {text-decoration: none; color: #fff; border-bottom: 3px solid #0068FF;}
-a:hover {color: #0068FF}
-p {font-weight: 200; font-size: 20px;}
-
-.name {font-family: Montserrat; font-size: 45px; text-transform: none; font-weight: 900; padding: 0px; border: 0px solid #ffffff; color: #ffffff; display: inline-block; position: absolute; margin-bottom: 60px; top: 60px; left: 90px;}
-
-.container {margin: 0 auto; width: 700px; padding: 120px 12px 50px; overflow: auto;}
-
 .meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
 .meta a:hover {color: #fff;}
 
